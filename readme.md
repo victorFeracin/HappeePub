@@ -13,4 +13,4 @@ The following link will take you to the referred website: [link](https://happeep
 
 ## Thank You!
 
-If you have read this and checked out my work, thank you! Feel free to give me a Feedback or an advice about the Web Journey. It will be a pleasure to read you message. My personal E-mail is: victorhugo.feracin@gmail.com.
+If you have read this and checked out my work, thank you! Feel free to give me a Feedback or an advice about the Web Journey. It will be a pleasure to read your message. My personal E-mail is: victorhugo.feracin@gmail.com.
