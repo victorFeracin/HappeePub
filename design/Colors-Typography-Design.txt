@@ -1,0 +1,23 @@
+---Colors:
+
+/*Red palette*/
+1 ------- #3d000f
+
+2 ------- #260009
+
+/*Cream palette*/
+1 ------- #fbebc9
+
+---Typography:
+
+1em / line-height: 1.5em (text body)
+
+1.25em / line-height: 1.4 (subtitle / title / text body)
+
+1.5em / line-height: 1.875em (subtitle / title)
+
+1.625em / line-height: 1.9em (subtitle / title)
+
+2.25em / line-height: 2.5em (title)
+
+3em / line-height: 1 (title)
